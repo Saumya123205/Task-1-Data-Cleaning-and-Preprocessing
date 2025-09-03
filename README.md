@@ -1,5 +1,5 @@
 # Netflix Dataset Cleaning and Preparation Project
-<img width="300" height="300" alt="Netflix Dataset Cleaning Overview" src="https://github.com/user-attachments/assets/85dfb69d-49e5-40f4-8e5c-123d0a308f4d" />
+<img width="250" height="300" alt="Netflix Dataset Cleaning Overview" src="https://github.com/user-attachments/assets/85dfb69d-49e5-40f4-8e5c-123d0a308f4d" />
 
 
 ## 📌 Project Overview
