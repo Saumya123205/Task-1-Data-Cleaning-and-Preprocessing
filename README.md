@@ -15,7 +15,7 @@ Using Python (Pandas), we cleaned and transformed the data into a fully standard
 
 ### 🔹 Insights into durations, seasons, and genres
 
-### Building machine learning models
+### 🔹 Building machine learning models
 
 ## 🎯 Objective
 
