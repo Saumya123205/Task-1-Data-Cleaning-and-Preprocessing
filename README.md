@@ -1,4 +1,6 @@
 # Netflix Dataset Cleaning and Preparation Project
+![Uploading Netflix Dataset Cleaning Overview.png…]()
+
 ## 📌 Project Overview
 This project focuses on cleaning and preparing the Netflix dataset for analysis.
 The raw dataset contained missing values, inconsistent formats, and unstructured columns.
