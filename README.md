@@ -4,7 +4,7 @@ This project focuses on cleaning and preparing the Netflix dataset for analysis.
 The raw dataset contained missing values, inconsistent formats, and unstructured columns.
 Using Python (Pandas), we cleaned and transformed the data into a fully standardized, analysis-ready format.
 
-##  🔹 The cleaned dataset can now be used for:
+##  The cleaned dataset can now be used for:
 
 ### 🔹 Trend analysis of Netflix movies and TV shows
 
