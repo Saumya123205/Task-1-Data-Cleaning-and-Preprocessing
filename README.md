@@ -1,5 +1,6 @@
 # Netflix Dataset Cleaning and Preparation Project
-![Uploading Netflix Dataset Cleaning Overview.png…]()
+<img width="1024" height="1536" alt="Netflix Dataset Cleaning Overview" src="https://github.com/user-attachments/assets/85dfb69d-49e5-40f4-8e5c-123d0a308f4d" />
+
 
 ## 📌 Project Overview
 This project focuses on cleaning and preparing the Netflix dataset for analysis.
